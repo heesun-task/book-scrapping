@@ -1,4 +1,5 @@
 /books
+/books-copy
 .venv
 .DS_Store
 .idea/*
